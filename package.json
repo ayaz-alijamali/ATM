@@ -1,6 +1,6 @@
 {
-  "name": "atm",
-  "version": "0.8.1",
+  "name": "a-j-atm-project",
+  "version": "1.2.3",
   "description": "",
   "main": "index.js",
   "type": "module",
